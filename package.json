@@ -1,0 +1,32 @@
+{
+  "name": "hexo-noindex",
+  "version": "1.0.0",
+  "description": "Add a robots noindex meta tag with configurable follow/nofollow to Hexo posts and pages whose Front Matter sets noindex: true.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/rqh656418510/hexo-noindex",
+  "keywords": [
+    "hexo",
+    "hexo-plugin",
+    "noindex",
+    "robots",
+    "seo"
+  ],
+  "author": "rqh656418510",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "peerDependencies": {
+    "hexo": "^5.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rqh656418510/hexo-noindex.git"
+  }
+}

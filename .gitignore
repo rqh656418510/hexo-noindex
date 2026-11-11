@@ -1,0 +1,6 @@
+node_modules/
+.npm-cache/
+.tmp/
+public/
+db.json
+*.log
